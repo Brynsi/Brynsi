@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Brynsi, (Brynjar)
+- 👀 I’m interested in learning Python for the fun of it
+- 🌱 I’m currently learning Java, because of school
+- 📫 How to reach me: brynjar.loung@gmail.com
